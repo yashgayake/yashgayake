@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gayake</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Cybersecurity Learner | Government Exam Aspirant</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Cybersecurity Learner </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashgayake&label=Profile%20views&color=0e75b6&style=flat" alt="yashgayake" />
@@ -13,8 +13,7 @@
 - 🤖 Currently Learning **Machine Learning & Data Science**
 - 🌐 Building Full Stack Projects (React + Node + MongoDB)
 - 🔐 Exploring Cybersecurity & Ethical Hacking
-- 🏆 Preparing for MPSC / UPSC side by side
-- 💡 Goal: Become AI Engineer + Government Officer
+- 💡 Goal: Become AI Engineer\
 
 ---
 
