@@ -74,7 +74,7 @@
 
 <p>
   <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" />
   </a>
   <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
