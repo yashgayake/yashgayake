@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Yash Gayake
 
-<!--
-**yashgayake/yashgayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma 3rd Year Student  
+💻 Aspiring AI/ML Engineer | Full Stack Developer | Cybersecurity Learner  
+📍 Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Programming: Python, C++, JavaScript
+- Web: HTML, CSS, React, Node.js
+- Database: MySQL, MongoDB
+- AI/ML: NumPy, Pandas, Scikit-learn
+- Tools: Git, Linux, VS Code
+
+---
+
+## 📌 Current Focus
+- Machine Learning Projects
+- Full Stack Development
+- Government Exam Preparation (MPSC/UPSC)
+
+---
+
+## 📊 GitHub Stats
+
+(Add later using GitHub stats generator)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add your link)
+- Email: (Your professional email)
