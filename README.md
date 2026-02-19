@@ -58,6 +58,7 @@
 
 ![Snake animation](https://github.com/yashgayake/yashgayake/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 🔥 Featured Projects
