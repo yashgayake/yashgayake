@@ -62,11 +62,10 @@
 
 ## 🔥 Featured Projects
 
-- 🤖 Face Recognition Attendance System
-- 🌐 Full Stack E-Commerce Website
-- 🔐 Ethical Hacking Toolkit (Learning Based)
-- 📊 Data Science Mini Projects
-- 💬 Java Socket Chat Application
+- 🤖 Vendor Invoice Intelligence System
+- 🔗 Blockchain Certificate Verification System
+- 👁️ Face Recognition Attendance System
+- ♻️ E-Waste Management System
 
 ---
 
@@ -88,11 +87,11 @@
 
 ## 🏆 Achievements & Goals 2026
 
-- ✅ Build 10+ Real World Projects
-- ✅ Master Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Crack Government Exam
-- ✅ Get Internship in Tech
+- 🚀 Build Innovative AI & Blockchain Projects
+- 💻 Master Full Stack & Machine Learning
+- 🌐 Contribute to Open Source Projects
+- 🎯 Achieve Career & Government Exam Goals
+- 🔥 Continuously Learn Emerging Technologies
 
 ---
 
